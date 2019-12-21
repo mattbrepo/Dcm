@@ -1,0 +1,10 @@
+kind;url;title;date_start;author;lang;labels;keywords;favorite
+doc;a.txt;titolo a;01/12/2017;myuser;it;lab1 lab2;varie;*
+doc;f.txt;titolo f;01/12/2017;myuser;it;lab1 lab2 lab3;varie;
+url;Google.com;;13/12/2017;myuser;en;;;
+url;google.com/dhsjh;;13/12/2017;myuser;en;;;
+url;htttp://goog;ciao;14/12/2017;myuser;en;lab1 lab3;;
+url;dsaksjdak;ciao;14/12/2017;myuser;en;lab1 lab3;;
+doc;b.cpp;b;19/12/2017;myuser;en;;;
+doc;b.doc;b;15/03/2018;myuser;en;;;
+doc;a.pdf;a;15/03/2018;myuser;en;;;
