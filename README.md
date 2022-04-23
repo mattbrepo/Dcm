@@ -12,7 +12,7 @@ I've been lost in hundreds of documents scattered in too many folders for years.
 
 Check the 'example' folder.
 
-Write 'h' or 'helpì to show the help:
+Write 'h' or 'help' to show the help:
 
 ![Example1](/images/example1.jpg)
 
